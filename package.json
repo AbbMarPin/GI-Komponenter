@@ -1,0 +1,15 @@
+{
+  "name": "se.abb.components",
+  "version": "1.0.0",
+  "displayName": "Components",
+  "description": "This is an example package",
+  "unity": "2021.2",
+  "dependencies": {},
+  "samples": [
+    {
+      "displayName": "Sample scene",
+      "description": "Sample scene",
+      "path": "Samples~/Sample Scene"
+    }
+  ]
+}
