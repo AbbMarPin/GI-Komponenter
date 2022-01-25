@@ -5,11 +5,14 @@
   "description": "This is an example package",
   "unity": "2021.2",
   "dependencies": {},
+  "files": [
+    "Samples"
+  ],
   "samples": [
     {
       "displayName": "Sample scene",
       "description": "Sample scene",
-      "path": "Samples~/Sample Scene"
+      "path": "Samples/Sample Scene"
     }
   ]
 }
